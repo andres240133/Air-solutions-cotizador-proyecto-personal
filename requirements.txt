@@ -1,0 +1,20 @@
+# AirSolutions Facturador - Dependencias de Python
+
+# Seguridad
+bcrypt>=4.0.1
+cryptography>=41.0.0
+
+# Exportación Excel
+openpyxl>=3.1.2
+
+# Interfaz gráfica
+tkcalendar>=1.6.1
+
+# Procesamiento de imágenes
+Pillow>=10.0.0
+
+# Gráficos
+matplotlib>=3.7.2
+
+# Generación de PDFs
+reportlab>=4.0.4
